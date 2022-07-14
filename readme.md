@@ -1,3 +1,5 @@
+This approach is *not* recommended, see https://vite-plugin-ssr.com/vercel.
+
 Example of deploying a Vite + `vite-plugin-ssr` app to [Vercel](https://vercel.com/), using Vercel's [File System API](https://vercel.com/docs/file-system-api/v1).
 
 While/after adding your Git repository to Vercel, set the following in Vercel's web UI:
